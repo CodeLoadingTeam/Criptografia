@@ -1,0 +1,14 @@
+
+Uma mensagem foi enviada a um capitão da guarda costeira, a mensagem dizia que um navio vindo da Ásia 
+em direção a região norte do Brasil com possível lixo toxico e que ele e sua tripulação deveriam ser 
+averiguadas.
+
+Seguindo as normas legislativas, somente inspetores devidamente trajados com roupas especiais poderão 
+adentrar o navio, além disso o capitão deixou o navio a uma distância segura de 50 quilômetros da 
+costa e todo e qualquer contato deverá ser realizado por meio de helicópteros, para restringir e 
+minimizar o contato.
+
+Então seguindo esses meios de restrição o capitão enviou quatro inspetores em um helicóptero para 
+averiguar a situação do lixo tóxico e os tripulantes do navio. Para que haja uma comunicação entre a
+guarda costeira brasileira e o navio, será estabelecido uma comunicação criptografada assimetricamente 
+para saber mais detalhes da situação.
